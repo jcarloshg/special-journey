@@ -16,6 +16,9 @@ class StackFavoriteWidget extends StatelessWidget {
             ),
             Positioned(
               top: 0.0,
+
+
+              
               right: 0.0,
               child: FractionalTranslation(
                 translation: Offset(0.3, -0.3),
